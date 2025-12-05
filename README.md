@@ -139,4 +139,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Project Link: [https://github.com/yourusername/wifi-password-manager](https://github.com/yourusername/wifi-password-manager)
+Project Link: [https://github.com/itzzomkar/wifi-password-manager](https://github.com/itzzomkar/wifi-password-manager)
