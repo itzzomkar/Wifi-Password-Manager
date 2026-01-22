@@ -47,7 +47,7 @@ wifi-password-manager/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/wifi-password-manager.git
+   git clone https://github.com/itzzomkar/wifi-password-manager.git
    cd wifi-password-manager
    ```
 
